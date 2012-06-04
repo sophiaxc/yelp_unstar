@@ -1,4 +1,4 @@
-var isActive = false;
+var isActive = true;
 
 function hideShowRatings() {
   if (isActive) {
